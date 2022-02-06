@@ -1,0 +1,17 @@
+.hotaccessoriesmenu{
+    display: flex;
+    justify-content: center;
+}
+.hotaccessorieslink{
+    text-decoration: none;
+    margin-top: 2vmax;
+    padding:2vmax 1vmax;
+    color: rgb(94, 94, 94);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.hotaccessorieslink:hover{
+    text-decoration: none;
+    color: orangered;
+    border-bottom: 1px solid orangered;
+}
